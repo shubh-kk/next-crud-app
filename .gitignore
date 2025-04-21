@@ -44,5 +44,4 @@ next-env.d.ts
 components
 
 #generated-prisma-client
-generated
-prisma
+/app/generated/
